@@ -1,11 +1,14 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Header from './components/Header'
 
 function App() {
   return (
     <div>
+      <Header />
+
       <header className="App-header">
+      
         <p>
           Welcome to <h1>Malaji Tech </h1> We are currently under construction!!! <br>
           </br><br>
